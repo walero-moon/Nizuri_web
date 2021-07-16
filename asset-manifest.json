@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Nizuri_web/static/css/main.bbf09a34.chunk.css",
+    "main.css": "/Nizuri_web/static/css/main.34da32b9.chunk.css",
     "main.js": "/Nizuri_web/static/js/main.3e8a3d4e.chunk.js",
     "main.js.map": "/Nizuri_web/static/js/main.3e8a3d4e.chunk.js.map",
     "runtime-main.js": "/Nizuri_web/static/js/runtime-main.515d9d08.js",
@@ -8,15 +8,14 @@
     "static/js/2.c8d0b014.chunk.js": "/Nizuri_web/static/js/2.c8d0b014.chunk.js",
     "static/js/2.c8d0b014.chunk.js.map": "/Nizuri_web/static/js/2.c8d0b014.chunk.js.map",
     "index.html": "/Nizuri_web/index.html",
-    "static/css/main.bbf09a34.chunk.css.map": "/Nizuri_web/static/css/main.bbf09a34.chunk.css.map",
+    "static/css/main.34da32b9.chunk.css.map": "/Nizuri_web/static/css/main.34da32b9.chunk.css.map",
     "static/js/2.c8d0b014.chunk.js.LICENSE.txt": "/Nizuri_web/static/js/2.c8d0b014.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/Nizuri_web/static/media/bg-img.4e95015b.png",
     "static/media/logoRound.d99fe3d2.png": "/Nizuri_web/static/media/logoRound.d99fe3d2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.515d9d08.js",
     "static/js/2.c8d0b014.chunk.js",
-    "static/css/main.bbf09a34.chunk.css",
+    "static/css/main.34da32b9.chunk.css",
     "static/js/main.3e8a3d4e.chunk.js"
   ]
 }
