@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Nizuri_web/static/css/main.92c7dbd9.chunk.css",
-    "main.js": "/Nizuri_web/static/js/main.7537d11b.chunk.js",
-    "main.js.map": "/Nizuri_web/static/js/main.7537d11b.chunk.js.map",
+    "main.js": "/Nizuri_web/static/js/main.b26d34ae.chunk.js",
+    "main.js.map": "/Nizuri_web/static/js/main.b26d34ae.chunk.js.map",
     "runtime-main.js": "/Nizuri_web/static/js/runtime-main.515d9d08.js",
     "runtime-main.js.map": "/Nizuri_web/static/js/runtime-main.515d9d08.js.map",
     "static/js/2.d10d73fb.chunk.js": "/Nizuri_web/static/js/2.d10d73fb.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.515d9d08.js",
     "static/js/2.d10d73fb.chunk.js",
     "static/css/main.92c7dbd9.chunk.css",
-    "static/js/main.7537d11b.chunk.js"
+    "static/js/main.b26d34ae.chunk.js"
   ]
 }
